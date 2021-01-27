@@ -1,0 +1,25 @@
+li {
+    padding: 3px;
+    margin: 3px;
+    background: #eca84e;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .eaten { 
+    background: #55c085;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 3px;
+    margin: 3px;
+    background: rgb(218, 81, 18);
+  }
+  
+  .form-group {
+    margin-bottom: 5%;
+  }
+  
